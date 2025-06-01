@@ -18,4 +18,8 @@ conceitos básicos como entrada de dados, funções e cálculos.
           '''bash
        git clone
        https://github.com/PaulaLinhares/calculadoranotas.git
+2. Abra o arquivo'calculadora.py' no PyCharm ou outro deitor de sua preferência.
+3. Execute o programa.
+   ## Feito com muita dedicação por Paula Linhares ##
+   Se gostou, me siga aqui para acompanhar mais projetos.💗
    
